@@ -1,3 +1,3 @@
 # Demo_Repo
-This is my first learning repositories!!
+I am Learning GitHub!!
 Author - Kanishk Raj Singh Jhala
